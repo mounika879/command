@@ -1,0 +1,78 @@
+
+
+
+============================================================================================================
+
+
+aws regions and availability zones [ Availability zone is nothing but a "datacenter"]
+
+
+availability zone is nothing but a datacentre
+
+AWS KEY SERVICES       ( " ONPremises " is nothing but your office enviornment which presented locally(physical server) )
+----------------------
+
+VPC (Networking concept on cloud) [ Tech M ]
+
+ => IGW (Internet Gateway(Internet service Provider)) [ ISP ]
+ => RouteTable (Router)
+ => Subnets (subnetworks)
+ => Elastic IP's  (Public IP, Private IP[Private Ip will not change untill you terminate it ] and Elastic IP )
+ => NAT Gateways
+ => VPC Peering 
+
+EC2 (Compute service on cloud)
+
+S3 (Storage service on cloud)
+
+IAM (Identity and Access Management)
+
+RDS (Database on cloud )
+
+EFS (Elastic File System)
+
+CloudFormation [ CF ]
+
+CloudWatch [ Monitoring ]
+
+Auto-Scalling & Elastic Load Balancer
+
+CloudFront
+
+Route53 [ DNS ]
+
+CloudTrail
+
+LAMBDA [ Serverless Concept ]
+
+ECS [ Docker on AWS (Containeraizaion)]
+
+Code Commit [ GIT & Gitlab ]
+
+Code Build [ Maven & Gradle ]
+
+Code Deploy [ CD ]
+
+Code Pipeline [ CI ]
+
+
+just a min ...im doing money transaction 
+
+kk
+ 2maro aa time ki wakeup meru
+
+morning ha
+shall we start
+can i call
+haaa
+?
+cal
+me num kalavadam ledu
+your aunty came ha
+
+haaa sleeping
+k good night
+
+k good nite
+byone
+done
